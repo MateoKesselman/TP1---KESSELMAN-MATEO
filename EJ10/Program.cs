@@ -9,7 +9,7 @@ namespace EJ10
             const int añoIni = 1900, añoFin = 2015;
             int value = añoIni;
 
-            Console.WriteLine("AÑOS BISIESTOS COMPRENDIDOS ENTRE 1900 Y 2015:");
+            Console.WriteLine("AÑOSS BISIESTOS COMPRENDIDOS ENTRE 1900 Y 2015:");
             while (value <= añoFin)
             {
                 bool esBisiesto = false;

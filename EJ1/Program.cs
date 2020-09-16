@@ -10,15 +10,17 @@ namespace EJ1
             Console.WriteLine("INTRODUZCA NÚMERO:");
             nNumero = int.Parse(Console.ReadLine());
             
+            //HOLA
+
             if (nNumero == 1)
             {
                 Console.Clear();
-                Console.WriteLine("UNO");
+                Console.WriteLine("UNNNO");
             }
             else if (nNumero == 2)
             {
                 Console.Clear();
-                Console.WriteLine("DOS");
+                Console.WriteLine("DOSSS");
             }
             else if (nNumero == 3)
             {
