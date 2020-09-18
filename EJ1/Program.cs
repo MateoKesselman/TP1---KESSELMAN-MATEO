@@ -15,12 +15,12 @@ namespace EJ1
             if (nNumero == 1)
             {
                 Console.Clear();
-                Console.WriteLine("UNNNO");
+                Console.WriteLine("UNO");
             }
             else if (nNumero == 2)
             {
                 Console.Clear();
-                Console.WriteLine("DOSSS");
+                Console.WriteLine("DOS");
             }
             else if (nNumero == 3)
             {
